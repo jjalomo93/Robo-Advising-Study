@@ -18,7 +18,7 @@ In the second half of 2014, Blooom won the Finovate Best in Show Award.<sup>[2]<
 ---
 Accoring to founder Chris Costello, he was originally inspirted to start Blooom after taking a deeper look at how individual 401ks were managed by Wealth Management companies. He believed that 401ks were widely mismanaged and companies were not focused on providing quality investment guidance to small-time investors.<sup>[6]</sup> This led to the idea of automating investment re-allocation for the everyday American. Blooom set its goal to assist any investor with the ability to manage their retirement online.
 
-As of May 2017, Blooom identified that nearly 90 million Americans currently participated in contribution retirement plans such as 401k, 403b, and TSP. This represents about $4.5 trillion in investment.<sup>[6]</sup>. With $4 billion in assets under management, the market opportunity for Blooom is huge.<sup>[7]</sup>
+As of May 2017, Blooom identified that nearly 90 million Americans currently participated in contribution retirement plans such as 401k, 403b, and TSP. This represents about $4.5 trillion in investment.<sup>[6]</sup> With $4 billion in assets under management, the market opportunity for Blooom is huge.<sup>[7]</sup>
 
 ### Competitive Advantage and Technology
 ---
