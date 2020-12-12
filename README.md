@@ -1,7 +1,7 @@
 # Robo Advising and Blooom
 ![Blooom Logo](https://www.goodfinancialcents.com/wp-content/uploads/2018/10/blooom-1.png)
 
-## Company Origin and Key Statistics
+## Company Origins and Funding
 
 ### How It Began
 ---
@@ -12,10 +12,16 @@ Out of Overland Park, Kansas a new robo-advising company was founded specificall
 In the second half of 2014, Blooom won the Finovate Best in Show Award.<sup>[2]</sup> After winning the award, venture capitalists began to approach the founders with funding proposals. It was not until 2015 that the company began to seek funding from external investors. In October 2015, Blooom raised $4 million in a round of Series A funding.<sup>[3]</sup> The funding was led by QED Investors, but other companies like DST Systems Inc., Commerce Ventures, Hyde Park Venture Partners, and UMB were included as well. In the same year, another $60 thousand was raised through other avenues.<sup>[4]</sup> Lastly, in a Series B in February 2017, Blooom was able to raise $9.15 million in additional funding led by existing investors QED Investors and Commerce Ventures.<sup>[5]</sup>
 
 
-## Business Activities:
+## Blooom's Business Strategy
 
-* What specific financial problem is the company or project trying to solve?
+### The Current Problem
+---
+Accoring to founder Chris Costello, he was originally inspirted to start Blooom after taking a deeper look at how individual 401ks were managed by Wealth Management companies. He believed that 401ks were widely mismanaged and companies were not focused on providing quality investment guidance to small-time investors.<sup>[6]</sup> This led to the idea of automating investment re-allocation for the everyday American. Blooom set its goal to assist any investor with the ability to manage their retirement online.
 
+As of May 2017, Blooom identified that nearly 90 million Americans currently participated in contribution retirement plans such as 401k, 403b, and TSP. This represents about $4.5 trillion in investment.<sup>[6]</sup>. With $4 billion in assets under management, the market opportunity for Blooom is huge.<sup>[7]</sup>
+
+### Competitive Advantage and Technology
+---
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
@@ -55,4 +61,6 @@ What solution does this company offer that their competitors do not or cannot of
 <sup>[2]</sup> Finovate 2014 Best of Show Winners https://finovate.com/looking-back-at-the-28-best-of-show-winners-of-2014/  
 <sup>[3]</sup> Blooom to expand with $4M Series A https://www.startlandnews.com/2015/10/blooom-to-expand-with-4m-series-a/  
 <sup>[4]</sup> How They Funded It: blooom Flourishes with the Right Funders https://www.kcsourcelink.com/blog/post/blog/2018/04/17/how-they-funded-it-blooom-flourishes-with-the-right-funders  
-<sup>[5]</sup> Blooom Series B Press Release https://www.blooom.com/wp-content/uploads/2020/07/blooom-series-b.pdf
+<sup>[5]</sup> Blooom Series B Press Release https://www.blooom.com/wp-content/uploads/2020/07/blooom-series-b.pdf  
+<sup>[6]</sup> Yodlee Blooom Case Study http://solutions.yodlee.com/rs/789-EJH-884/images/CS_Blooom-Case-Study.pdf  
+<sup>[7]</sup> 6 years of blooom  https://www.blooom.com/6-years-of-blooom/  
