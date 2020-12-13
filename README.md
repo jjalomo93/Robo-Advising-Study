@@ -20,12 +20,11 @@ Accoring to founder Chris Costello, he was originally inspirted to start Blooom 
 
 As of May 2017, Blooom identified that nearly 90 million Americans currently participated in contribution retirement plans such as 401k, 403b, and TSP. This represents about $4.5 trillion in investment.<sup>[6]</sup> With $4 billion in assets under management, the market opportunity for Blooom is huge.<sup>[7]</sup>
 
-### Competitive Advantage and Technology
+### Blooom's Solution
 ---
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+First and foremost, Blooom uses robo-advising to provide investment guidance to millions of everyday Americans with employer-sponsored retirement accounts. Their competitive advantage stems from the fact that they were the first company to target this niche of the financial services industry. To this day, they are still one of the only companies that operate in this space. This provides a huge benefit to Americans with employer-sponsored retirement accounts who are too often ignored by the financial institutions that serve them. While initially focusing on 401k and other types of employer-sponsored accounts, they have now added IRAs into their offerings as their assets under management have continued to increase.<sup>[8]</sup>
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+The main technologies Blooom uses are algorithms and data aggregation APIs. Their algorithm uses the customer's age, estimated retirement date, and fund options via the retirement plan to determine the best allocation of assets for the customer. This is broken into 13 asset classes and defaults to the lowest cost option for the user.<sup>[6]</sup> Blooom uses the Envestnet | Yodlee data aggregation engine as their API to pull customer data from individual retirement online accounts. This service pulls data from the customer's retirement account website and pulls it into the Blooom website for analysis. From there, the algoritm determines the best portfolio mix for the customer.<sup>[6]</sup>
 
 
 ## Landscape:
@@ -63,4 +62,5 @@ What solution does this company offer that their competitors do not or cannot of
 <sup>[4]</sup> How They Funded It: blooom Flourishes with the Right Funders https://www.kcsourcelink.com/blog/post/blog/2018/04/17/how-they-funded-it-blooom-flourishes-with-the-right-funders  
 <sup>[5]</sup> Blooom Series B Press Release https://www.blooom.com/wp-content/uploads/2020/07/blooom-series-b.pdf  
 <sup>[6]</sup> Yodlee Blooom Case Study http://solutions.yodlee.com/rs/789-EJH-884/images/CS_Blooom-Case-Study.pdf  
-<sup>[7]</sup> 6 years of blooom  https://www.blooom.com/6-years-of-blooom/  
+<sup>[7]</sup> Blooom Website https://www.blooom.com/best-robo-advisor/  
+<sup>[8]</sup> blooom Review: Easily Grow And Optimize Your 401k & IRA https://www.moneyunder30.com/bloom-401k-optimization  
