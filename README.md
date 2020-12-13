@@ -5,7 +5,7 @@
 
 ### How It Began
 ---
-Out of Overland Park, Kansas a new robo-advising company was founded specifically to target individual 401k/retirement management. **Blooom** was founded in 2013 by co-founders Chris Costello, Kevin Conard, and Randy AufDerHeide. The inspiration for Blooom was that corporations have failed the average consumer.<sup>[1]</sup> The company believes that wealth management firms favor the extremely wealthy as opposed to the majority of Americans. Combined with the disappearance of pensions in America and social security falling short of supporting families, the American consumer has had to navigate retirement planning on their own with little guidance. Blooom has set out to use technology to provide financial advice that is easy to digest for the average American so that they can make informed decisions when planning for the future.
+Out of Overland Park, Kansas a new robo-advising company was founded specifically to target individual 401k/retirement management. **Blooom** was founded in 2013 by co-founders Chris Costello, Kevin Conard, and Randy AufDerHeide. The inspiration for Blooom was that corporations have failed the average consumer.<sup>[[1]](#1)</sup> The company believes that wealth management firms favor the extremely wealthy as opposed to the majority of Americans. Combined with the disappearance of pensions in America and social security falling short of supporting families, the American consumer has had to navigate retirement planning on their own with little guidance. Blooom has set out to use technology to provide financial advice that is easy to digest for the average American so that they can make informed decisions when planning for the future.
 
 ### Funding Their Idea
 ---
@@ -56,7 +56,7 @@ The main technologies Blooom uses are algorithms and data aggregation APIs. Thei
 * Why are these technologies appropriate for your solution?
 
 ## Resources
-<sup>[1]</sup> Blooom Website https://www.blooom.com/financial-planning/  
+<sup>[1]</sup> Blooom Website https://www.blooom.com/financial-planning/<a name="1"></a>  
 <sup>[2]</sup> Finovate 2014 Best of Show Winners https://finovate.com/looking-back-at-the-28-best-of-show-winners-of-2014/  
 <sup>[3]</sup> Blooom to expand with $4M Series A https://www.startlandnews.com/2015/10/blooom-to-expand-with-4m-series-a/  
 <sup>[4]</sup> How They Funded It: blooom Flourishes with the Right Funders https://www.kcsourcelink.com/blog/post/blog/2018/04/17/how-they-funded-it-blooom-flourishes-with-the-right-funders  
