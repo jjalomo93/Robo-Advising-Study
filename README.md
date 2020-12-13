@@ -9,34 +9,44 @@ Out of Overland Park, Kansas a new robo-advising company was founded specificall
 
 ### Funding Their Idea
 ---
-In the second half of 2014, Blooom won the Finovate Best in Show Award.<sup>[2]</sup> After winning the award, venture capitalists began to approach the founders with funding proposals. It was not until 2015 that the company began to seek funding from external investors. In October 2015, Blooom raised $4 million in a round of Series A funding.<sup>[3]</sup> The funding was led by QED Investors, but other companies like DST Systems Inc., Commerce Ventures, Hyde Park Venture Partners, and UMB were included as well. In the same year, another $60 thousand was raised through other avenues.<sup>[4]</sup> Lastly, in a Series B in February 2017, Blooom was able to raise $9.15 million in additional funding led by existing investors QED Investors and Commerce Ventures.<sup>[5]</sup>
+In the second half of 2014, Blooom won the Finovate Best in Show Award.<sup>[[2]](#2)</sup> After winning the award, venture capitalists began to approach the founders with funding proposals. It was not until 2015 that the company began to seek funding from external investors. In October 2015, Blooom raised $4 million in a round of Series A funding.<sup>[[3]](#3)</sup> The funding was led by QED Investors, but other companies like DST Systems Inc., Commerce Ventures, Hyde Park Venture Partners, and UMB were included as well. In the same year, another $60 thousand was raised through other avenues.<sup>[[4]](#4)</sup> Lastly, in a Series B in February 2017, Blooom was able to raise $9.15 million in additional funding led by existing investors QED Investors and Commerce Ventures.<sup>[[5]](#5)</sup>
 
 
 ## Blooom's Business Strategy
 
 ### The Current Problem
 ---
-Accoring to founder Chris Costello, he was originally inspirted to start Blooom after taking a deeper look at how individual 401ks were managed by Wealth Management companies. He believed that 401ks were widely mismanaged and companies were not focused on providing quality investment guidance to small-time investors.<sup>[6]</sup> This led to the idea of automating investment re-allocation for the everyday American. Blooom set its goal to assist any investor with the ability to manage their retirement online.
+Accoring to founder Chris Costello, he was originally inspirted to start Blooom after taking a deeper look at how individual 401ks were managed by Wealth Management companies. He believed that 401ks were widely mismanaged and companies were not focused on providing quality investment guidance to small-time investors.<sup>[[6]](#6)</sup> This led to the idea of automating investment re-allocation for the everyday American. Blooom set its goal to assist any investor with the ability to manage their retirement online.
 
-As of May 2017, Blooom identified that nearly 90 million Americans currently participated in contribution retirement plans such as 401k, 403b, and TSP. This represents about $4.5 trillion in investment.<sup>[6]</sup> With $4 billion in assets under management, the market opportunity for Blooom is huge.<sup>[7]</sup>
+As of May 2017, Blooom identified that nearly 90 million Americans currently participated in contribution retirement plans such as 401k, 403b, and TSP. This represents about $4.5 trillion in investment.<sup>[[6]](#6)</sup> With $4 billion in assets under management, the market opportunity for Blooom is huge.<sup>[[7]](#7)</sup>
 
 ### Blooom's Solution
 ---
-First and foremost, Blooom uses robo-advising to provide investment guidance to millions of everyday Americans with employer-sponsored retirement accounts. Their competitive advantage stems from the fact that they were the first company to target this niche of the financial services industry. To this day, they are still one of the only companies that operate in this space. This provides a huge benefit to Americans with employer-sponsored retirement accounts who are too often ignored by the financial institutions that serve them. While initially focusing on 401k and other types of employer-sponsored accounts, they have now added IRAs into their offerings as their assets under management have continued to increase.<sup>[8]</sup>
+First and foremost, Blooom uses robo-advising to provide investment guidance to millions of everyday Americans with employer-sponsored retirement accounts. Their competitive advantage stems from the fact that they were the first company to target this niche of the financial services industry. To this day, they are still one of the only companies that operate in this space. This provides a huge benefit to Americans with employer-sponsored retirement accounts who are too often ignored by the financial institutions that serve them. While initially focusing on 401k and other types of employer-sponsored accounts, they have now added IRAs into their offerings as their assets under management have continued to increase.<sup>[[8]](#8)</sup>
 
-The main technologies Blooom uses are algorithms and data aggregation APIs. Their algorithm uses the customer's age, estimated retirement date, and fund options via the retirement plan to determine the best allocation of assets for the customer. This is broken into 13 asset classes and defaults to the lowest cost option for the user.<sup>[6]</sup> Blooom uses the Envestnet | Yodlee data aggregation engine as their API to pull customer data from individual retirement online accounts. This service pulls data from the customer's retirement account website and pulls it into the Blooom website for analysis. From there, the algoritm determines the best portfolio mix for the customer.<sup>[6]</sup>
-
-
-## Landscape:
-
-* What domain of the financial industry is the company in?
-
-* What have been the major trends and innovations of this domain over the last 5-10 years?
-
-* What are the other major companies in this domain?
+The main technologies Blooom uses are algorithms and data aggregation APIs. Their algorithm uses the customer's age, estimated retirement date, and fund options via the retirement plan to determine the best allocation of assets for the customer. This is broken into 13 asset classes and defaults to the lowest cost option for the user.<sup>[[6]](#6)</sup> Blooom uses the Envestnet | Yodlee data aggregation engine as their API to pull customer data from individual retirement online accounts. This service pulls data from the customer's retirement account website and pulls it into the Blooom website for analysis. From there, the algoritm determines the best portfolio mix for the customer.<sup>[[6]](#6)</sup>
 
 
-## Results
+## Blooom's Space in the Industry
+
+### Robo-Advising within FinTech
+---
+Blooom is one of the leading startups in the Robo-Advising domain of the Financial Services Industry. They were the first company to offer this service to employer-sponsored retirement accounts and are still one of the only companies that offer this specific service. In recent years, the robo-advising domain has shown that technology and big data can outperform traditional financial planning professionals. While fee structures at traditional wealth management companies can be quite expensive, robo-advising offers an inexpensive solution to portfolio management with a higher degree of accuracy. This has allowed the domain to make big impacts in asset allocation, balance projection, insurance management, tax management, retirement planning, and estate planning.<sup>[[9]](#9)</sup> While traditional financial planning relies on human judgement for investment advice, robo-advising firms are now using deep learning, quantitative finance, and big data in order to provide specialized solutions for both corporations and individuals.
+
+### Competition within the Domain
+---
+Within the past few years, the robo-advising domain has become quite saturated. Most major financial institutions have entered the robo-advising arena and have the capability to box out smaller startups. Some even believe that the window of opportunity for new startups to enter the space has closed if the startup does not have the backing of a large financial institution.<sup>[[10]](#10)</sup>
+
+The main competitors in the Robo Advising domain include<sup>[[11]](#11)</sup>:  
+* Wealthfront
+* Interactive Advisors
+* Betterment
+* Personal Capital
+* M1 Finance
+* Merrill Guided Investing
+* E*TRADE Core Portfolios
+
+## Blooom's Achievements
 
 * What has been the business impact of this company so far?
 
@@ -57,10 +67,13 @@ The main technologies Blooom uses are algorithms and data aggregation APIs. Thei
 
 ## Resources
 <sup>[1]</sup> Blooom Website https://www.blooom.com/financial-planning/<a name="1"></a>  
-<sup>[2]</sup> Finovate 2014 Best of Show Winners https://finovate.com/looking-back-at-the-28-best-of-show-winners-of-2014/  
-<sup>[3]</sup> Blooom to expand with $4M Series A https://www.startlandnews.com/2015/10/blooom-to-expand-with-4m-series-a/  
-<sup>[4]</sup> How They Funded It: blooom Flourishes with the Right Funders https://www.kcsourcelink.com/blog/post/blog/2018/04/17/how-they-funded-it-blooom-flourishes-with-the-right-funders  
-<sup>[5]</sup> Blooom Series B Press Release https://www.blooom.com/wp-content/uploads/2020/07/blooom-series-b.pdf  
-<sup>[6]</sup> Yodlee Blooom Case Study http://solutions.yodlee.com/rs/789-EJH-884/images/CS_Blooom-Case-Study.pdf  
-<sup>[7]</sup> Blooom Website https://www.blooom.com/best-robo-advisor/  
-<sup>[8]</sup> blooom Review: Easily Grow And Optimize Your 401k & IRA https://www.moneyunder30.com/bloom-401k-optimization  
+<sup>[2]</sup> Finovate 2014 Best of Show Winners https://finovate.com/looking-back-at-the-28-best-of-show-winners-of-2014/<a name="2"></a>  
+<sup>[3]</sup> Blooom to expand with $4M Series A https://www.startlandnews.com/2015/10/blooom-to-expand-with-4m-series-a/<a name ="3"></a>  
+<sup>[4]</sup> How They Funded It: blooom Flourishes with the Right Funders https://www.kcsourcelink.com/blog/post/blog/2018/04/17/how-they-funded-it-blooom-flourishes-with-the-right-funders<a name="4"></a>  
+<sup>[5]</sup> Blooom Series B Press Release https://www.blooom.com/wp-content/uploads/2020/07/blooom-series-b.pdf<a name="5"></a>  
+<sup>[6]</sup> Yodlee Blooom Case Study http://solutions.yodlee.com/rs/789-EJH-884/images/CS_Blooom-Case-Study.pdf<a name="6"></a>  
+<sup>[7]</sup> Blooom Website https://www.blooom.com/best-robo-advisor/<a name="7"></a>  
+<sup>[8]</sup> blooom Review: Easily Grow And Optimize Your 401k & IRA https://www.moneyunder30.com/bloom-401k-optimization<a name="8"></a>  
+<sup>[9]</sup> Robo-advisors: the next phase of fintech evolution https://www.allerin.com/blog/robo-advisors-the-next-phase-of-fintech-evolution<a name="9"></a>  
+<sup>[10]</sup> Yet another startup? Where there's a will, there's a robo advisor https://www.financial-planning.com/news/yet-another-startup-where-theres-a-will-theres-a-robo-advisor<a name="10"></a>  
+<sup>[11]</sup> Best Robo-Advisors https://www.investopedia.com/best-robo-advisors-4693125<a name="11"></a>
