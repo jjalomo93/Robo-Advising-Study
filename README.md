@@ -63,8 +63,8 @@ The main competitors in the Robo Advising domain include<sup>[[11]](#11)</sup>:
 
 * What technologies would this additional product or service utilize?
 
-* Why are these technologies appropriate for your solution?
-
+* Why are these technologies appropriate for your solution?<br /><br />
+---
 ## Resources
 <sup>[1]</sup> Blooom Website https://www.blooom.com/financial-planning/<a name="1"></a>  
 <sup>[2]</sup> Finovate 2014 Best of Show Winners https://finovate.com/looking-back-at-the-28-best-of-show-winners-of-2014/<a name="2"></a>  
