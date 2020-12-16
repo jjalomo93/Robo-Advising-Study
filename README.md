@@ -26,6 +26,8 @@ First and foremost, Blooom uses robo-advising to provide investment guidance to 
 
 The main technologies Blooom uses are algorithms and data aggregation APIs. Their algorithm uses the customer's age, estimated retirement date, and fund options via the retirement plan to determine the best allocation of assets for the customer. This is broken into 13 asset classes and defaults to the lowest cost option for the user.<sup>[[6]](#6)</sup> Blooom uses the Envestnet | Yodlee data aggregation engine as their API to pull customer data from individual retirement online accounts. This service pulls data from the customer's retirement account website and pulls it into the Blooom website for analysis. From there, the algoritm determines the best portfolio mix for the customer.<sup>[[6]](#6)</sup>
 
+In this video, Blooom presents the problem they encountered and the solution they have provided.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u0ZpOCtFDcs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Blooom's Space in the Industry
 
