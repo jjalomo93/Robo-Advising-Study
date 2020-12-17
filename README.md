@@ -27,7 +27,8 @@ First and foremost, Blooom uses robo-advising to provide investment guidance to 
 The main technologies Blooom uses are algorithms and data aggregation APIs. Their algorithm uses the customer's age, estimated retirement date, and fund options via the retirement plan to determine the best allocation of assets for the customer. This is broken into 13 asset classes and defaults to the lowest cost option for the user.<sup>[[6]](#6)</sup> Blooom uses the Envestnet | Yodlee data aggregation engine as their API to pull customer data from individual retirement online accounts. This service pulls data from the customer's retirement account website and pulls it into the Blooom website for analysis. From there, the algoritm determines the best portfolio mix for the customer.<sup>[[6]](#6)</sup>
 
 In this video, Blooom presents the problem they encountered and the solution they have provided.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u0ZpOCtFDcs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![FinovateFall 2014 / Blooom](https://img.youtube.com/vi/u0ZpOCtFDcs/0.jpg)](https://www.youtube.com/watch?v=u0ZpOCtFDcs)
 
 ## Blooom's Space in the Industry
 
@@ -50,23 +51,18 @@ The main competitors in the Robo Advising domain include<sup>[[11]](#11)</sup>:
 
 ## Blooom's Achievements
 
-* What has been the business impact of this company so far?
+Booom has disrupted the robo-advising and wealth management industry with their platform. They have provided the average American a simple platform that can provide easy-to-digest investment advice for their retirement funds. The company is highly rated on various review websites, with high marks in Investment Options, Fee Structures, Technology, and Ease of Use.<sup>[[8]](#8)</sup> The company is working in a niche of financial management that is often overlooked, and that is one of their greatest sources of growth.
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
-* How is your company performing relative to competitors in the same domain?
-
+Within wealth management companies, one of the main core metrics by which companies measure success is total Assets Under Management (AUM). Since its inception in 2013, Blooom has gained over $4 Billion in AUM. No other company has reached this AUM milestone at the same pace Blooom. The company has even outpaced its industry-leading competitors Wealthfront and Betterment.<sup>[[12]](#12)</sup> While Wealthfront and Betterment both have over $20 Billion in AUM, Blooom is in a position to overtake both of these companies based on its current growth and the amount of available assets in their sector of the wealth management industry.
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+If I were to recommend anything to Blooom, it would be to expand the coverage of investment accounts that the company currently offers. While there is a tremendous market for employer-sponsored retirement accounts, many Americans also have individual investment accounts and individual retirement accounts. Providing investment guidance for all of these options has the potential to vastly increase the company's assets under management. Additionally, the large financial institutions offer a great variety of investment management products. Blooom is uniquely positioned to siphon customers from these larger institutions because they do not favor the extremely wealthy and offer a low-cost fee structure that other companies cannot offer. Another recommendation would be to provide 24/7 access to an investment professional via online chat tool. I believe this would benefit the company because many Americans are often checking investment outside of normal business hours. Providing this access would allow them to get on-demand assistance on a timeline that fits with their schedules.
 
-* Why do you think that offering this product or service would benefit the company?
+I believe that the current technologies Blooom uses are adequate to cover the additional account management offerings. Based on their strategy, they only need to pull the available investment options per account and are still able to make suggestions using their existing algorithm. For the 24/7 investment advice, the company could look into using machine learning and AI to create an advisor tool that is completely online and does not require human input. This would save the company money in overhead when it comes to headcount cost. Many companies such as Amazon and other financial institutions already use bots for customer service, so I think it would benefit Blooom to implement this as well.
 
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?<br /><br />
 ---
+
 ## Resources
 <sup>[1]</sup> Blooom Website https://www.blooom.com/financial-planning/<a name="1"></a>  
 <sup>[2]</sup> Finovate 2014 Best of Show Winners https://finovate.com/looking-back-at-the-28-best-of-show-winners-of-2014/<a name="2"></a>  
@@ -78,4 +74,5 @@ The main competitors in the Robo Advising domain include<sup>[[11]](#11)</sup>:
 <sup>[8]</sup> blooom Review: Easily Grow And Optimize Your 401k & IRA https://www.moneyunder30.com/bloom-401k-optimization<a name="8"></a>  
 <sup>[9]</sup> Robo-advisors: the next phase of fintech evolution https://www.allerin.com/blog/robo-advisors-the-next-phase-of-fintech-evolution<a name="9"></a>  
 <sup>[10]</sup> Yet another startup? Where there's a will, there's a robo advisor https://www.financial-planning.com/news/yet-another-startup-where-theres-a-will-theres-a-robo-advisor<a name="10"></a>  
-<sup>[11]</sup> Best Robo-Advisors https://www.investopedia.com/best-robo-advisors-4693125<a name="11"></a>
+<sup>[11]</sup> Best Robo-Advisors https://www.investopedia.com/best-robo-advisors-4693125<a name="11"></a>  
+<sup>[12]</sup> Blooom fighting fraud in world of the 401(k) https://www.fintechfutures.com/2018/01/blooom-fighting-fraud-in-world-of-the-401k/  
